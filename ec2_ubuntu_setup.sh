@@ -10,7 +10,7 @@ sudo apt-get install build-essential
 sudo apt-get install libcpprest-dev
 y
 
-git clone https://gitlab.com/woloai/bulldog.git
+git clone https://github.com/lh14576/bulldog.git
 cd bulldog
 git submodule init
 git submodule update
